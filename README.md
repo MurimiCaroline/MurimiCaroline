@@ -1,6 +1,16 @@
-### Hi there 👋
+# MURIMI CAROLINE 👋
+
+!["Murimi Caroline"](https://avatars.githubusercontent.com/u/104681417?v=4)
+
+#I am Currently Learning
+
+
 
 <!--
+TO DO:
+1. add images
+
+
 **MurimiCaroline/MurimiCaroline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
