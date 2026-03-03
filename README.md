@@ -2,7 +2,9 @@
 
 !["Murimi Caroline"](https://avatars.githubusercontent.com/u/104681417?v=4)
 
-#I am Currently Learning
+Data Center Engineer who enjoys working with data.
+
+Has experience working with - Python, SQL, Power Bi, Excel, Flutter
 
 
 
