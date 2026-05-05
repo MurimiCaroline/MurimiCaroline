@@ -1,4 +1,4 @@
-<img width="5636" height="3757" alt="LAP-0025" src="https://github.com/user-attachments/assets/d23478a8-6228-489b-9171-77279f965fb9" /># MURIMI CAROLINE 👋
+MURIMI CAROLINE 👋
 
 <img width="5636" height="3757" alt="LAP-0025" src="https://github.com/user-attachments/assets/2058500f-8757-480d-9750-956e9bcb40f4" />
 
