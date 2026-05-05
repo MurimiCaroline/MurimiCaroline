@@ -1,11 +1,11 @@
 # MURIMI CAROLINE 👋
 
-!["Murimi Caroline"](https://avatars.githubusercontent.com/u/104681417?v=4)
 
 Data Center Engineer who enjoys working with data.
 
-Has experience working with - Python, SQL, Power Bi, Excel, Flutter
+Has experience working with - Python, SQL, Power Bi, Excel, sklearn, matplotib, pandas
 
+🌱 I’m currently learning Data Science at ALX.
 
 
 <!--
